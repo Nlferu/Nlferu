@@ -1,9 +1,4 @@
 
-
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
 ### 🎃 Hi theree 👋
 
 ### 📓 Languages:
@@ -32,6 +27,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- Shell --->
+
+<!--- Out --->
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
 
 <!--
 **Neftyr/Neftyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
