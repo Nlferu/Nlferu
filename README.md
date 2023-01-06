@@ -9,16 +9,17 @@
 ### Languages
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
-<img align="left" align="center" src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="30" style="padding-right:10px;"/>
+<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="25px" style="padding-right:10px;"/>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" style="padding-right:10px;"/>
+<img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40px" style="padding-right:5px;"/>
 <!--- JavaScript --->
 
 <!--- TypeScript --->
 
 <!--- Java --->
-<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" style="padding-right:10px;"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- MQL5 --->
 
 <!--- HTML --->
