@@ -1,5 +1,3 @@
-<!--- In --->
-<div style="transform: rotate(180deg);"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing"/></div>
 
 # Neftyr ☠️
 I'm...
