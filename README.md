@@ -11,7 +11,7 @@
 <img align="left" src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="60" height="60" style="padding-right:10px;"/>
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
 <!--- Python --->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px;"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <!--- JavaScript --->
 
