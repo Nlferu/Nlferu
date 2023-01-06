@@ -1,6 +1,7 @@
 
 # Neftyr ☠️
 I'm...
+
 # 💻 Languages:
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
@@ -40,7 +41,7 @@ I'm...
 <!--- Stats --->
 #
 
-![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=gruvbox)
+![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=tokyonight)
 
 
 <!--- Out --->
