@@ -38,7 +38,10 @@ I'm...
 <br></br>
 
 <!--- Stats --->
-![Neftyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=gruvbox)
+#
+
+![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=gruvbox)
+
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
