@@ -1,7 +1,7 @@
 
-### 🎃 Hi theree 👋
-
-### 📓 Languages:
+# Neftyr 🎃
+I'm...
+# 💻 Languages:
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="25px" style="padding-right:10px;"/>
@@ -26,11 +26,15 @@
 <!--- CSS --->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
-<!--- Shell --->
+<!--- GitScm --->
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<!--- GitHub --->
+<a href="https://github.com" target="_blank" rel="noreferrer">
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
-
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <!--
