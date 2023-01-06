@@ -7,8 +7,23 @@
 ### ⚡Hi theree 👋
 
 ### Languages
+<!--- Solidity --->
+<p align="center"> <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="40"/>
+<!--- Python --->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<!--- JavaScript --->
 
-<p align="center"> <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
+<!--- TypeScript --->
+
+<!--- Java --->
+
+<!--- MQL5 --->
+
+<!--- HTML --->
+
+<!--- CSS --->
+
+<!--- Shell --->
 
 <!--
 **Neftyr/Neftyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
