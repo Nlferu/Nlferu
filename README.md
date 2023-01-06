@@ -1,5 +1,5 @@
 
-# Neftyr 🎃
+# Neftyr ☠️
 I'm...
 # 💻 Languages:
 <!--- Solidity --->
@@ -11,21 +11,23 @@ I'm...
 <!--- JavaScript --->
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
-<!--- TypeScript --->
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
-<!--- Java --->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- MQL5 --->
 <a href="https://www.mql5.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://c.mql5.com/i/community/logo_mql5-2.png" alt="Java" width="70px" style="padding-right:10px;"/>
+<!--- Java --->
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px;"/>
+<!--- TypeScript --->
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- HTML --->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- CSS --->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
+<!--- PowerShell --->
+<img align="left" align="center" src="https://static-00.iconduck.com/assets.00/powershell-icon-256x193-nsgfym8m.png" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- GitScm --->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
