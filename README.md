@@ -8,11 +8,11 @@
 
 ### Languages
 <!--- Solidity --->
-<img align="left" align="center" src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" style="padding-right:10px;"/>
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="30" style="padding-right:10px;"/>
 <!--- Python --->
-<img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" style="padding-right:10px;"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" style="padding-right:10px;"/>
 <!--- JavaScript --->
 
 <!--- TypeScript --->
