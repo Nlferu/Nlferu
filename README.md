@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
 ### ⚡Hi theree 👋
 
 <!--
