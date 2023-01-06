@@ -8,7 +8,7 @@
 
 ### Languages
 
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
+<p align="center"> <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
 
 <!--
 **Neftyr/Neftyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
