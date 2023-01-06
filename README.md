@@ -1,3 +1,5 @@
+<!--- In --->
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" style="transform: scaleY(-1);"/> </p>
 
 # Neftyr ☠️
 I'm...
@@ -41,12 +43,11 @@ I'm...
 <!--- Stats --->
 #
 
-![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=tokyonight)
+![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=aura)
 
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
-<hr style="width:50%;text-align:left;margin-left:0">
 
 <!--
 **Neftyr/Neftyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
