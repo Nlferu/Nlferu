@@ -1,5 +1,5 @@
 <!--- In --->
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" style="transform: scaleX(-1);"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" style="transform: scaleY(-1);"/> </p>
 
 # Neftyr ☠️
 I'm...
