@@ -8,7 +8,7 @@
 
 ### Languages
 <!--- Solidity --->
-<p align="center"> <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="40"/>
+<a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="50" height="50"/>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <!--- JavaScript --->
