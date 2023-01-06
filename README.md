@@ -4,9 +4,9 @@
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
-### ⚡Hi theree 👋
+### 🎃 Hi theree 👋
 
-### Languages
+### 📓 Languages:
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="25px" style="padding-right:10px;"/>
@@ -14,18 +14,23 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40px" style="padding-right:5px;"/>
 <!--- JavaScript --->
-
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- TypeScript --->
-
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- Java --->
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- MQL5 --->
-
+<a href="https://www.mql5.com" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://c.mql5.com/i/community/logo_mql5-2.png" alt="Java" width="70px" style="padding-right:10px;"/>
 <!--- HTML --->
-
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- CSS --->
-
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/>
 <!--- Shell --->
 
 <!--
