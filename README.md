@@ -41,7 +41,7 @@ I'm...
 <!--- Stats --->
 #
 
-![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=ocean_dark)
+![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=gotham)
 
 
 <!--- Out --->
