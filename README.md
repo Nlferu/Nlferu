@@ -1,5 +1,5 @@
 <!--- In --->
-<div style="transform: rotate(180deg);"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing"/></div>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" style="transform: scaleY(-1);"/>
 
 # Neftyr ☠️
 I'm...
@@ -30,6 +30,7 @@ I'm...
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="Java" width="40px" style="padding-right:10px;"/></a>
 <!--- PowerShell --->
+<a href="https://learn.microsoft.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://static-00.iconduck.com/assets.00/powershell-icon-256x193-nsgfym8m.png" alt="Java" width="40px" style="padding-right:10px;"/></a>
 <!--- GitScm --->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
