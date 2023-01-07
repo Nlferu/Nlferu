@@ -1,25 +1,30 @@
 .container {
     display: flex;
     outline: none!important;
+    border-color:black;
 }
   
 .element {
 display: inline-block;
 margin: 0 20px;
 outline: none!important;
+border-color:black;
 }
 
 .td {
     border: none!important;
     outline: none!important;
+    border-color:black;
 }
 
 .th {
     border: none!important;
     outline: none!important;
+    border-color:black;
 }
 
 .table {
     border-collapse: collapse;
     outline: none!important;
+    border-color:black;
 }
