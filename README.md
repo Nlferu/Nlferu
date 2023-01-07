@@ -4,8 +4,6 @@ I was working in finance for 6 years and now I'm into blockchain technology as f
 
 I have also a lot of experience in programming trading bots and indicators for FX market.
 
-[![Millionaire Forex Scalping Strategy](https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Strategy "Millionaire Forex Scalping Strategy")](https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader)
-
 # 💻 Languages:
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
@@ -47,7 +45,7 @@ I have also a lot of experience in programming trading bots and indicators for F
 #
 
 ![Neftyr's GitHub](https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=aura)
-
+[![Millionaire Forex Scalping Strategy](https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Strategy "Millionaire Forex Scalping Strategy")](https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader)
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
