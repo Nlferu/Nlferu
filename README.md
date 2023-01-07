@@ -1,5 +1,3 @@
-<!--- In --->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" style="transform: scaleY(-1);"/>
 
 # Neftyr ☠️
 I'm...
