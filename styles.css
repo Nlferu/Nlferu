@@ -1,6 +1,6 @@
 .container {
     display: flex;
-  }
+}
   
 .element {
 display: inline-block;
@@ -8,5 +8,9 @@ margin: 0 20px;
 }
 
 .td {
-    border: 0 !important;
-  }
+    border: none!important;
+}
+
+.th {
+    border: none!important;
+}

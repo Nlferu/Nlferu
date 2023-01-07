@@ -42,8 +42,9 @@ I have also a lot of experience in programming trading bots and indicators for F
 
 
 <!--- Stats --->
+#
 
-<table>
+<span>
   <tr>
     <td style="border: 0;">
         <img src="https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=aura" alt="Neftyr's GitHub">
@@ -54,7 +55,7 @@ I have also a lot of experience in programming trading bots and indicators for F
       </a>
     </td>
   </tr>
-</table>
+</span>
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
