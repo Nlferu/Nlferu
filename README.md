@@ -44,6 +44,8 @@ I have also a lot of experience in programming trading bots and indicators for F
 <!--- Stats --->
 #
 
+<link rel="stylesheet" href="styles.css">
+
 <table>
   <tr>
     <td style="border: 0;">
