@@ -42,7 +42,6 @@ I have also a lot of experience in programming trading bots and indicators for F
 
 
 <!--- Stats --->
-#
 
 <table>
   <tr>
