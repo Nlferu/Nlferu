@@ -6,3 +6,7 @@
 display: inline-block;
 margin: 0 20px;
 }
+
+.td {
+    border: 0;
+  }
