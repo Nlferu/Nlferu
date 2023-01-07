@@ -2,8 +2,7 @@
     display: flex;
   }
   
-  .element {
-    display: inline-block;
-    margin: 0 20px;
-  }
-  
+.element {
+display: inline-block;
+margin: 0 20px;
+}
