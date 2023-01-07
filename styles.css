@@ -1,20 +1,25 @@
 .container {
     display: flex;
+    outline: none!important;
 }
   
 .element {
 display: inline-block;
 margin: 0 20px;
+outline: none!important;
 }
 
 .td {
     border: none!important;
+    outline: none!important;
 }
 
 .th {
     border: none!important;
+    outline: none!important;
 }
 
 .table {
     border-collapse: collapse;
+    outline: none!important;
 }
