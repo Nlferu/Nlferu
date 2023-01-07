@@ -56,6 +56,21 @@ I have also a lot of experience in programming trading bots and indicators for F
   </div>
 </div>
 
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=aura" alt="Neftyr's GitHub">
+    </td>
+    <td style="padding-left: 20px;">
+      <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader">
+        <img src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Strategy" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
