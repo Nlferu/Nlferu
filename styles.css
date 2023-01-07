@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+  }
+  
+  .element {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
