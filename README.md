@@ -1,5 +1,5 @@
 
-# Neftyr ☠️
+# ☠️ Neftyr
 I was working in finance for 6 years and now I'm into blockchain technology as fullstack developer!
 
 I have also a lot of experience in programming trading bots and indicators for FX market.
