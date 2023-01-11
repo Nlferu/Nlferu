@@ -52,7 +52,7 @@ I have also a lot of experience in programming trading bots and indicators for F
 
 <img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats.vercel.app/api?username=neftyr&show_icons=true&theme=aura" />
 <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader" target="_blank" rel="noreferrer">
-<img align="left" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Strategy" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy">
+<img align="left" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Robot" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy">
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
