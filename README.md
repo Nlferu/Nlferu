@@ -53,10 +53,10 @@ I have also a lot of experience in programming trading bots and indicators for F
 <img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&hide_border=true" />
 
 <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader" target="_blank" rel="noreferrer">
-<img align="left" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Robot" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy">
+<img align="left" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Robot" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy"></a>
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
 
-<img align="right" alt="GitHub" width="150px" src="https://visitcount.itsvg.in/api?id=neftyr&icon=0&color=12" />
+<img align="right" alt="GitHub" width="150px" src="https://visitcount.itsvg.in/api?id=neftyr&icon=6&color=12&style=black" />
