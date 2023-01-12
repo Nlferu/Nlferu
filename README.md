@@ -58,6 +58,8 @@ I have also a lot of experience in programming trading bots and indicators for F
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
+
+[![](https://visitcount.itsvg.in/api?id=neftyr&icon=0&color=12)](https://visitcount.itsvg.in)
 <!--
 **Neftyr/Neftyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
