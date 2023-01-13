@@ -59,4 +59,4 @@ I have also a lot of experience in programming trading bots and indicators for F
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
 
-<img align="right" alt="GitHub" width="150px" src="https://visitcount.itsvg.in/api?id=neftyr&icon=6&color=12&style=black" />
+<img align="right" alt="GitHub" width="150px" src="https://komarev.com/ghpvc/?username=neftyr&color=blueviolet" />
