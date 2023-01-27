@@ -1,7 +1,6 @@
 
 # ☠️ Neftyr
-Worked in finance for 6 years and now I'm into blockchain technology as fullstack developer!           
-I have also a lot of experience in programming trading bots and indicators for FX market.
+I've spent the past 6 years mastering finance industry, but I'm now turning my focus to the exciting world of blockchain technology as a fullstack developer. I have a wealth of experience in programming trading bots and indicators for the FX market, and I'm eager to apply my skills to this cutting-edge technology.
 
 
 # 💻 Languages And Frameworks:
