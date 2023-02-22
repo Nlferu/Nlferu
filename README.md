@@ -52,8 +52,10 @@ I've spent the past 6 years mastering finance industry, but now I'm turning my f
 <!--- GitHub --->
 <!-- <a href="https://github.com" target="_blank" rel="noreferrer">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" /></a>
-<br></br>
 -->
+
+<br></br>
+
 
 <!--- Stats --->
 #
