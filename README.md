@@ -2,7 +2,6 @@
 # ☠️ Neftyr
 I've spent the past 6 years mastering finance industry, but now I'm turning my focus to the exciting world of blockchain technology as a fullstack developer. I have a wealth of experience in programming trading bots and indicators for the FX market, and I'm eager to apply my skills to this cutting-edge technology.
 
-
 # 💻 Languages And Frameworks:
 <br>
 <!--- Solidity --->
@@ -56,7 +55,6 @@ I've spent the past 6 years mastering finance industry, but now I'm turning my f
 
 <br></br>
 
-
 <!--- Stats --->
 #
 <p align="center">
@@ -65,7 +63,6 @@ I've spent the past 6 years mastering finance industry, but now I'm turning my f
 </p>
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
-
 
 <img align="right" alt="GitHub" width="120px" src="https://komarev.com/ghpvc/?username=neftyr&color=blueviolet" />
 
