@@ -60,10 +60,24 @@ I've spent the past 6 years mastering finance industry, but now I'm turning my f
 <!--- Stats --->
 #
 
-<img align="left" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&count_private=true&hide_border=true" />
+<!--- Object 1 --->
+<img align="left" width="22%" alt="GitHub" style="padding-right:30px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&count_private=true&hide_border=true" />
 
+<!--- Object 2 --->
 <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader" target="_blank" rel="noreferrer">
 <img align="left" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Robot" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy"></a>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<!--- Object 3 --->
+<img align="left" width="22%" style="padding-top:3px;" src="https://github-readme-streak-stats.herokuapp.com/?user=neftyr&theme=aura&hide_border=true" />
+
+
 
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
