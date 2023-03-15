@@ -60,7 +60,7 @@ I've spent the past 6 years mastering finance industry, but now I'm turning my f
 <!--- Stats --->
 #
 
-<img align="left" width="350px;" alt="GitHub" style="padding-right:10px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&count_private=true&hide_border=true" />
+<img align="left" width="380px;" alt="GitHub" style="padding-right:1px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&count_private=true&hide_border=true" />
 
 <img align="left" width="385px;" src="https://github-readme-streak-stats.herokuapp.com/?user=neftyr&theme=aura&hide_border=true" />
 
