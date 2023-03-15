@@ -55,12 +55,14 @@ I've spent the past 6 years mastering finance industry, but now I'm turning my f
 
 <br></br>
 
-<!--- Stats --->
 #
+
+<!--- Stats --->
 <p align="center">
 <img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&count_private=true&hide_border=true" />
 <img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=neftyr&theme=aura&hide_border=true" />
 </p>
+
 <!--- Out --->
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
