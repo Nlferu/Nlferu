@@ -1,9 +1,8 @@
-
-<a href="https://github.com/Neftyr"> 
-<img align="center" style="padding-left:600px;" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Neftyr"  />
-</a>
-
-<br>
+<h1 align="center">
+    <a href="https://github.com/Neftyr"> 
+        <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Neftyr" />
+    </a>
+</h1>
 
 I've spent the past 6 years mastering finance industry, but now I'm turning my focus to the exciting world of blockchain technology as a fullstack developer. I have a wealth of experience in programming trading bots and indicators for the FX market, and I'm eager to apply my skills to this cutting-edge technology.
 
