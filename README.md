@@ -75,7 +75,7 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 <p align="center">
 <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader" target="_blank" rel="noreferrer">
 <img align="center" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader&title=Forex+Scalping+Robot" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy"></a>
-<img  align="center" VALIGN=TOP width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neftyr&hide_border=true&theme=aura&layout=compact&hide_progress=false" />
+<img  align="center" VALIGN=TOP width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neftyr&hide_border=true&theme=aura&layout=compact&hide_progress=false" />
 </p>
 
 <p> 
