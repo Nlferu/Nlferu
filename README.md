@@ -53,8 +53,6 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 
 <!--- Next Line --->
 
-<br></br>
-
 <!--- Bash --->
 <p align="center">
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer" title="Bash">
