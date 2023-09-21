@@ -54,7 +54,7 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 <br></br>
 
 <!--- Bash --->
-<!-- <div style="display: flex; justify-content: center;"> -->
+<div style="display: flex; justify-content: center;">
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer" title="Bash">
 <img align="center" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- PowerShell --->
@@ -66,7 +66,7 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 <!--- GitHub --->
 <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub">
 <img align="center" alt="GitHub" width="30px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" /></a>
-<!-- </div> -->
+</div>
 
 <br></br>
 
