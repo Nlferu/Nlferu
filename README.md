@@ -12,7 +12,7 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 <p align="center">
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="padding-right:10px; padding-left:10px;"/></a>
+<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
@@ -52,6 +52,8 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 </p>
 
 <!--- Next Line --->
+
+<br></br>
 
 <!--- Bash --->
 <p align="center">
