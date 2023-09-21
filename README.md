@@ -53,12 +53,17 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 
 <br></br>
 
+<!--- Center Items By Tricking GitHub Markdown --->
 <a target="_blank" rel="noreferrer">
-<img align="left" src="https://i.stack.imgur.com/mwFzF.png" width="40px"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
 <a target="_blank" rel="noreferrer">
-<img align="left" src="https://i.stack.imgur.com/mwFzF.png" width="40px"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
 <a target="_blank" rel="noreferrer">
-<img align="left" src="https://i.stack.imgur.com/mwFzF.png" width="40px"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
+<a target="_blank" rel="noreferrer">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
+<a target="_blank" rel="noreferrer">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
 
 <!--- Bash --->
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer" title="Bash">
