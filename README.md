@@ -53,19 +53,18 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 
 <!--- Bash --->
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer">
-<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px" style="padding-right:10px; padding-left:100px;"/></a>
+<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- PowerShell --->
 <a href="https://learn.microsoft.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://static-00.iconduck.com/assets.00/powershell-icon-256x193-nsgfym8m.png" alt="PowerShell" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 
 <!-- Commented Code -->
 <!--- GitScm --->
-<!-- <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
 <img align="left" alt="GitScm" width="30px" style="padding-right:10px; padding-left:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 <!--- GitHub --->
-<!-- <a href="https://github.com" target="_blank" rel="noreferrer">
+<a href="https://github.com" target="_blank" rel="noreferrer">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" /></a>
--->
 
 <br></br>
 
