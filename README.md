@@ -7,13 +7,14 @@
 I've spent the past 7 years mastering finance industry, but now I'm turning my focus to the exciting world of blockchain technology as a fullstack developer. I have a wealth of experience in programming trading bots and indicators for the FX market, and I'm eager to apply my skills to this cutting-edge technology.
 
 # <img src="https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:" />
+
 <br>
 <!--- Solidity --->
-<a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">
-<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="25px" style="padding-right:10px; padding-left:10px;"/></a>
+<a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
+<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
+<img align="left"  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- JavaScript --->
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
@@ -38,12 +39,18 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 <!--- React --->
 <a href="https://reactjs.org" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40px" style="padding-right:10px;padding-left:10px;"/></a>
+<!--- Foundry --->
+<a href="https://github.com/foundry-rs" target="_blank" rel="noreferrer">
+<img align="left" alt="Foundry" width="40px" style="padding-right:10px; padding-left:10px;" src="https://raw.githubusercontent.com/foundry-rs/.github/main/profile/logo.png" /></a>
 <!--- HardHat --->
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-<img align="left" alt="GitScm" width="40px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
+<img align="left" alt="Hardhat" width="40px" style="padding-right:10px; padding-left:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
 <!--- Brownie --->
 <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-<img align="left" alt="GitScm" width="40px" style="padding-right:10px; padding-left:10px;" src="https://www.scnsoft.com/technologies-logos/blockchain/brownie-logo.svg" /></a>
+<img align="left" alt="Brownie" width="40px" style="padding-right:10px; padding-left:10px;" src="https://www.scnsoft.com/technologies-logos/blockchain/brownie-logo.svg" /></a>
+<!--- Bash --->
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer">
+<img align="left" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
 <!--- PowerShell --->
 <a href="https://learn.microsoft.com" target="_blank" rel="noreferrer">
 <img align="left" align="center" src="https://static-00.iconduck.com/assets.00/powershell-icon-256x193-nsgfym8m.png" alt="PowerShell" width="40px" style="padding-right:10px; padding-left:10px;"/></a>
