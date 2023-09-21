@@ -53,6 +53,10 @@ I've spent the past 7 years mastering finance industry, but now I'm turning my f
 
 <br></br>
 
+<a><img src="image_url" alt="Blank" width="10px"></a>
+<a><img src="image_url" alt="Blank" width="10px"></a>
+<a><img src="image_url" alt="Blank" width="10px"></a>
+
 <!--- Bash --->
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer" title="Bash">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px"/></a>
