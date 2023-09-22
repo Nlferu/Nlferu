@@ -6,7 +6,7 @@
 
 I've spent the past 7 years mastering finance industry, but now I'm turning my focus to the exciting world of blockchain technology as a fullstack developer. I have a wealth of experience in programming trading bots and indicators for the FX market, and I'm eager to apply my skills to this cutting-edge technology.
 
-# <img src="https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:" style="pointer-events: none;" />
+![Laptop Icon](https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:)
 
 <br>
 <!--- Solidity --->
