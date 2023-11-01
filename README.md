@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/Neftyr"> 
-        <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Neftyr" />
+        <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Niferu" />
     </a>
 </h1>
 
