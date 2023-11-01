@@ -4,7 +4,9 @@
     </a>
 </h1>
 
+<p align="center">
 I've spent the past 7 years mastering the finance industry, but now I'm shifting my focus to the exciting world of programming as a full-stack developer. I'm eager to apply my skills by committing to cutting-edge web 3.0 technology.
+</p>
 
 # [![Laptop Icon](https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:)](#)
 
