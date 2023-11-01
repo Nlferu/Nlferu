@@ -1,10 +1,10 @@
 <h1 align="center">
     <a href="https://github.com/Neftyr"> 
-        <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Niferů" />
+        <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Niferu" />
     </a>
 </h1>
 
-I've spent the past 7 years mastering finance industry, but now I'm turning my focus to the exciting world of blockchain technology as a fullstack developer. I have a wealth of experience in programming trading bots and indicators for the FX market, and I'm eager to apply my skills to this cutting-edge technology.
+I've spent the past 7 years mastering the finance industry, but now I'm shifting my focus to the exciting world of programming as a full-stack developer. I'm eager to apply my skills by committing to cutting-edge web 3.0 technology.
 
 # [![Laptop Icon](https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:)](#)
 
