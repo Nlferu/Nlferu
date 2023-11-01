@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/Neftyr"> 
+    <a href="https://github.com/nlferu">
         <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Niferu" />
     </a>
 </h1>
@@ -88,8 +88,8 @@ I've spent the past 7 years mastering the finance industry, but now I'm shifting
 
 <!--- Stats --->
 <p align="center">
-<img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neftyr&show_icons=true&theme=aura&count_private=true&hide_border=true" />
-<img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=neftyr&theme=aura&hide_border=true" />
+<img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nlferu&show_icons=true&theme=aura&count_private=true&hide_border=true" />
+<img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=nlferu&theme=aura&hide_border=true" />
 </p>
 
 <!--- Out --->
@@ -100,9 +100,9 @@ I've spent the past 7 years mastering the finance industry, but now I'm shifting
 <p align="center">
 <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader" target="_blank" rel="noreferrer">
 <img align="center" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy"></a>
-<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neftyr&hide_border=true&theme=aura&layout=compact&hide_progress=false" />
+<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlferu&hide_border=true&theme=aura&layout=compact&hide_progress=false" />
 </p>
 
 <p> 
-<img align="right" alt="GitHub" width="120px" src="https://komarev.com/ghpvc/?username=neftyr&color=blueviolet" />
+<img align="right" alt="GitHub" width="120px" src="https://komarev.com/ghpvc/?username=nlferu&color=blueviolet" />
 </p>
