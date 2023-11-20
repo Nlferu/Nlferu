@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/nlferu">
+    <a href="https://niferu.vercel.app/">
         <img align="center" src="https://readme-typing-svg.demolab.com?font=consolas&size=40&color=ffffff&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=☠️+Niferu" />
     </a>
 </p>
