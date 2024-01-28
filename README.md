@@ -4,7 +4,13 @@
     </a>
 </p>
 
-I've spent the past 7 years mastering the finance industry, but now I'm shifting my focus to the exciting world of programming as a full-stack developer. I'm eager to apply my skills by committing to cutting-edge web 3.0 technology.
+I've spent the past seven years mastering the finance industry. My interests in trading across diverse markets like stocks, crypto, futures and more pushed me into learning programming, so i could test and automate my trading ideas. Ability to check all my strategies and ideas very quickly using code made me love programming.
+
+I have finally came to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning solidity, framewroks and more languages that allows me to create applications within blockchain from start to end.
+
+I'm currently applying my skills by committing to cutting-edge blockchain and web 3.0 technologies.
+
+If you are hiring, let's chat!
 
 # [![Laptop Icon](https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:)](#)
 
