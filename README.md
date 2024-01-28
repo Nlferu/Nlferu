@@ -4,11 +4,7 @@
     </a>
 </p>
 
-I've spent the past seven years mastering the finance industry. My interests in trading across diverse markets like stocks, crypto, futures and more pushed me into learning programming, so i could test and automate my trading ideas. Ability to check all my strategies and ideas very quickly using code made me love programming.
-
-I have finally came to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning solidity, framewroks and more languages that allows me to create applications within blockchain from start to end.
-
-I'm currently applying my skills by committing to cutting-edge blockchain and web 3.0 technologies.
+I've spent the past seven years mastering the finance industry. My interests in trading across diverse markets like stocks, crypto, futures, and more pushed me into learning programming so I could test and automate my trading ideas. The ability to check all my strategies and ideas very quickly using code made me love programming. I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allow me to create applications within web 3.0 from start to end. I'm currently applying my skills by committing to those new technologies.
 
 If you are hiring, let's chat!
 
