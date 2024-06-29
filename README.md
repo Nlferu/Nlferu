@@ -16,21 +16,27 @@ If you are hiring, let's chat!
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px"/></a>
+<!--- Rust --->
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40px"/></a>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px"/></a>
 <!--- JavaScript --->
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer" title="JavaScript">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px"/></a>
+<!--- TypeScript --->
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="TypeScript">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40px"/></a>
 <!--- MQL5 --->
 <a href="https://www.mql5.com" target="_blank" rel="noreferrer" title="MQL5">
 <img align="left" src="https://c.mql5.com/i/community/logo_mql5-2.png" alt="MQL5" width="70px"/></a>
 <!--- Java --->
 <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px"/></a>
-<!--- TypeScript --->
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="TypeScript">
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40px"/></a>
+<!--- MySQL --->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40px"/></a>
 <!--- HTML --->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px"/></a>
@@ -46,12 +52,6 @@ If you are hiring, let's chat!
 <!--- Foundry --->
 <a href="https://github.com/foundry-rs" target="_blank" rel="noreferrer" title="Foundry">
 <img align="left" alt="Foundry" width="40px" src="https://raw.githubusercontent.com/foundry-rs/.github/main/profile/logo.png" /></a>
-<!--- HardHat --->
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer" title="Hardhat">
-<img align="left" alt="Hardhat" width="40px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
-<!--- Brownie --->
-<a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer" title="Brownie">
-<img align="left" alt="Brownie" width="40px" src="https://www.scnsoft.com/technologies-logos/blockchain/brownie-logo.svg" /></a>
 
 <!--- Next Line --->
 
@@ -66,11 +66,13 @@ If you are hiring, let's chat!
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
 <a>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
-<a>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="40px"/></a>
-<a>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Invisible_square.png" width="20px"/></a>
 
+<!--- HardHat --->
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer" title="Hardhat">
+<img align="left" alt="Hardhat" width="40px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
+<!--- Brownie --->
+<a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer" title="Brownie">
+<img align="left" alt="Brownie" width="40px" src="https://www.scnsoft.com/technologies-logos/blockchain/brownie-logo.svg" /></a>
 <!--- Bash --->
 <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer" title="Bash">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px"/></a>
