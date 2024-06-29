@@ -15,7 +15,7 @@ If you are hiring, let's chat!
 <br>
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="filter: invert(0.5);"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="filter: invert(1);"/></a>
 <!--- Rust --->
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40px" style="filter: invert(0.7);"/></a>
