@@ -15,10 +15,10 @@ If you are hiring, let's chat!
 <br>
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="filter: invert(0.5);"/></a>
 <!--- Rust --->
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40px"/></a>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40px" style="filter: invert(0.7);"/></a>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px"/></a>
@@ -45,7 +45,7 @@ If you are hiring, let's chat!
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px"/></a>
 <!--- NextJS --->
 <a href="https://nextjs.org" target="_blank" rel="noreferrer" title="NextJS">
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="60px"/></a>
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="60px" style="filter: invert(0.7);"/></a>
 <!--- React --->
 <a href="https://reactjs.org" target="_blank" rel="noreferrer" title="React">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40px"/></a>
