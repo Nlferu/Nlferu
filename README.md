@@ -8,7 +8,7 @@ I've spent the past eight years mastering the finance industry. My interests in 
 
 I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allowed me to create applications within web 3.0 from start to end. I'm currently applying my skills by fully committing to these new technologies working as a blockchain engineer.
 
-If you are hiring, let's chat!
+Visit my website for more: https://niferu.vercel.app/
 
 # [![Laptop Icon](https://readme-typing-svg.demolab.com?font=consolas&size=27&color=ffffff&pause=1000&duration=5000&width=470&repeat=false&lines=💻+Languages+And+Frameworks:)](#)
 
