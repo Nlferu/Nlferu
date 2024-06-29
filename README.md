@@ -6,7 +6,7 @@
 
 I've spent the past eight years mastering the finance industry. My interests in trading across diverse markets like stocks, crypto, futures, and more pushed me into learning programming so I could test and automate my trading ideas. The ability to check all my strategies and ideas very quickly using code made me love programming.
 
-I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allowed me to create applications within web 3.0 from start to end. I'm currently applying my skills by fully committing to these new technologies and transitioning to a full-time role as blockchain developer.
+I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allowed me to create applications within web 3.0 from start to end. I'm currently applying my skills by fully committing to these new technologies working as a blockchain engineer.
 
 If you are hiring, let's chat!
 
@@ -15,10 +15,10 @@ If you are hiring, let's chat!
 <br>
 <!--- Solidity --->
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px" style="filter: invert(1);"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="25px"/></a>
 <!--- Rust --->
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40px" style="filter: invert(0.7);"/></a>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40px"/></a>
 <!--- Python --->
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px"/></a>
@@ -45,7 +45,7 @@ If you are hiring, let's chat!
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px"/></a>
 <!--- NextJS --->
 <a href="https://nextjs.org" target="_blank" rel="noreferrer" title="NextJS">
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="60px" style="filter: invert(0.7);"/></a>
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="60px"/></a>
 <!--- React --->
 <a href="https://reactjs.org" target="_blank" rel="noreferrer" title="React">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40px"/></a>
