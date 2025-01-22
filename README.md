@@ -4,7 +4,7 @@
     </a>
 </p>
 
-With over eight years of experience in the finance industry, my interest in trading across diverse markets like stocks, crypto, and futures pushed me to learn programming so I could test and automate my trading ideas. The ability to quickly validate my strategies and ideas using code made me fall in love with programming.
+With over eight years of experience in the finance industry, including working for top American banks in the investment sector and trading various markets independently, I developed a strong interest in trading diverse assets like stocks, crypto, and futures. This passion pushed me to learn programming so I could test and automate my trading ideas. The ability to quickly validate my strategies using code made me fall in love with programming.
 
 I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allowed me to create applications within web 3.0 from start to end. I'm currently applying my skills by fully committing to these new technologies working as a blockchain and backend engineer.
 
