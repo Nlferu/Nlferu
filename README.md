@@ -69,7 +69,7 @@ Visit my website for more: https://niferu.vercel.app/
 
 <!--- HardHat --->
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer" title="Hardhat">
-<img align="left" alt="Hardhat" width="40px" src="https://developers.moralis.com/wp-content/uploads/web3wiki/24hardhat/6381641b6a60932fb3c3c2d9_crsLQ2lVok-0X37hZ_7RSl62vTm5GRP0Ws4xyPt4E5I.jpeg" /></a>
+<img align="left" alt="Hardhat" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJfR0Rl8r1sfoeTWqpR1NpLy2iOKKvh5-wQ&s" /></a>
 <!--- Brownie --->
 <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer" title="Brownie">
 <img align="left" alt="Brownie" width="40px" src="https://www.scnsoft.com/technologies-logos/blockchain/brownie-logo.svg" /></a>
@@ -84,7 +84,7 @@ Visit my website for more: https://niferu.vercel.app/
 <img align="left" alt="GitScm" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 <!--- GitHub --->
 <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub">
-<img align="left" alt="GitHub" width="30px" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" /></a>
+<img align="left" alt="GitHub" width="30px" src="https://banner2.cleanpng.com/20180421/die/kisspng-github-computer-icons-node-js-circle-pack-5adb933cc5ffc2.914040391524339516811.jpg" /></a>
 
 <br></br>
 
