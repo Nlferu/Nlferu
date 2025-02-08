@@ -84,7 +84,7 @@ Visit my website for more: https://niferu.vercel.app/
 <img align="left" alt="GitScm" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 <!--- GitHub --->
 <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub">
-<img align="left" alt="GitHub" width="30px" src="https://banner2.cleanpng.com/20180421/die/kisspng-github-computer-icons-node-js-circle-pack-5adb933cc5ffc2.914040391524339516811.jpg" /></a>
+<img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" /></a>
 
 <br></br>
 
