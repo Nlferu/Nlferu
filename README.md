@@ -104,7 +104,7 @@ Visit my website for more: https://niferu.vercel.app/
 <p align="center">
 <a href="https://www.youtube.com/watch?v=BEdyUcYAdiE&ab_channel=OneTrueTrader" target="_blank" rel="noreferrer">
 <img align="center" alt="GitHub" width="300px" src="https://ytcards.demolab.com/?id=BEdyUcYAdiE&ab_channel=OneTrueTrader" alt="Millionaire Forex Scalping Strategy" title="Millionaire Forex Scalping Strategy"></a>
-<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlferu&hide_border=true&langs_count=10&theme=aura&layout=compact&hide_progress=false" />
+<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlferu&hide_border=true&langs_count=8&theme=aura&layout=compact&hide_progress=false" />
 </p>
 
 <p> 
