@@ -69,7 +69,7 @@ Visit my website for more: https://niferu.vercel.app/
 
 <!--- HardHat --->
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer" title="Hardhat">
-<img align="left" alt="Hardhat" width="40px" src="https://images.seeklogo.com/logo-png/42/3/hardhat-logo-png_seeklogo-426726.png?v=1957904884448274632" /></a>
+<img align="left" alt="Hardhat" width="40px" src="https://developers.moralis.com/wp-content/uploads/web3wiki/24hardhat/6381641b6a60932fb3c3c2d9_crsLQ2lVok-0X37hZ_7RSl62vTm5GRP0Ws4xyPt4E5I.jpeg" /></a>
 <!--- Brownie --->
 <a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank" rel="noreferrer" title="Brownie">
 <img align="left" alt="Brownie" width="40px" src="https://www.scnsoft.com/technologies-logos/blockchain/brownie-logo.svg" /></a>
